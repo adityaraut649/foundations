@@ -1,0 +1,33 @@
+.info {
+    font-size: 20px;
+    margin: auto;
+    padding: auto;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    padding: auto;
+}
+
+.title {
+    font-size: 26px;
+    font-weight: 1500px;
+    margin: 30px;
+}
+
+body{
+     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.txt{
+    text-align: center;
+    margin: 0;
+}

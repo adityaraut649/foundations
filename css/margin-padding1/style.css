@@ -1,0 +1,23 @@
+* {
+    margin: 10px;
+}
+
+.div1{
+    
+   background-color: pink;
+    padding: 40px;
+    margin: 35px;
+}
+
+.div2{
+    background-color: rgb(129, 182, 200);
+    margin-top: 100px;
+}
+
+.div3{
+    background-color: rgb(241, 185, 163);
+    margin: 45px; 
+    padding: 40px;
+    margin-left: 650px;
+
+}

@@ -1,0 +1,13 @@
+.btn1 , .btn2{
+   font-size: large;
+}
+
+.btn1 {
+    background-color: black;
+    color: yellowgreen;
+}
+
+.btn2 {
+    background-color: violet;
+    border: 2px solid black;
+}
